@@ -1,4 +1,5 @@
 {
+  "homepage": "https://sibinsunny404.github.io/Portfolio",
   "name": "portfoliomihir",
   "version": "0.1.0",
   "private": true,
@@ -9,7 +10,9 @@
     "framer-motion": "^8.4.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-ga": "^3.3.1",
     "react-icons": "^4.7.1",
+    "react-router-dom": "^6.23.1",
     "react-scripts": "5.0.1",
     "react-scroll": "^1.8.9",
     "react-simple-typewriter": "^5.0.1",
@@ -19,6 +22,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

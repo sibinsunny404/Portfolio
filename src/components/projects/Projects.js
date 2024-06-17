@@ -49,13 +49,13 @@ const Projects = () => {
           githubLink="https://github.com/sibinsunny404/Co-Care"
           // websiteLink="https://templesevamanagement.netlify.app/"
         />
-        {/* <ProjectsCard
-          title="Quiz App"
-          des="The Quiz App is an interactive and engaging application designed to test users' knowledge on various topics through a series of questions and answers. It provides an enjoyable way for users to learn new information, challenge themselves, and compete with others."
+        <ProjectsCard
+          title="Check my Github profile"
+          des="See my Github page for more details about the projects."
           src={projectSix}
-          githubLink="https://github.com/saji37/Quiz_app"
+          githubLink="https://github.com/sibinsunny404"
       
-        /> */}
+        />
       </div>
     </section>
   );

@@ -36,7 +36,7 @@ const Education = () => {
           />
             <ResumeCard
             title="Primary & Secondary School Education"
-            subTitle="Anugraha Eng. Medium School, Ujire (2012 - 2016)"
+            subTitle="Aladangady government High School (2012 - 2016)"
             result="70% "
             des="I attended this school from primary to tenth grade. SSC subjects are English, Hindi, Kannada, Mathematics, Science, and Social Sciences."
           /> 

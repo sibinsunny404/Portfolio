@@ -1,10 +1,11 @@
 //import { AiFillAppstore } from "react-icons/ai";
-import {  FaBrain,FaHammer,FaRunning,FaNetworkWired} from "react-icons/fa";
+import {  FaBrain,FaHammer,FaNetworkWired} from "react-icons/fa";
 import { SiProgress,SiChartdotjs} from "react-icons/si";
 import { CgChart, CgWebsite } from "react-icons/cg";
 import { MdAnalytics, } from "react-icons/md";
 import { TbHexagonLetterV } from "react-icons/tb";
 import { BiSolidTerminal } from "react-icons/bi";
+import { MdOutlineDeveloperMode } from "react-icons/md";
 
 
 // Features Data
@@ -23,9 +24,9 @@ export const featuresData = [
   },
   {
     id: 3,
-    icon: <FaRunning />,
-    title: "Travelling",
-    des: "Roaming the world, immersing in diverse cultures, and making lasting memories – a deep love for travel that ignites my sense of adventure.",
+    icon: <MdOutlineDeveloperMode />,
+    title: "Create tools for security testing.",
+    des: "Creating security solutions for a range of security testing applications.",
   },
   {
     id: 4,

@@ -24,7 +24,7 @@ const Achievement = () => {
           <ResumeCard
             title="First Prize in web development"
             subTitle="Joshiana National level IT fest, Mangalore (2022)"
-            result="Mangluru"
+            result="Mangalore"
             des="I earned first place in web design at the Joshiana National Level IT Fest 2022, held by St. Joseph Engineering College in Mangalore."
           />
         </div>
